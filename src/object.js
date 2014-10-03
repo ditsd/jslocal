@@ -9,6 +9,7 @@ NS.myFunction = {
     reset: function reset() {
         this.stuff = [];
     },
+	
     //will add new functionality here later
 };
 
